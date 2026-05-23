@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Espruen
 - 👀 I’m interested in modeling & simulation, programming, and GNU/Linux
-- 🌱 I’m currently learning Git, re-learning Python, Ansible, and LaTeX
+- 🌱 I’m currently learning Git, re-learning Python and Ansible
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
