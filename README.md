@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Espruen
-- 👀 I’m interested in modeling & simulation, programming, and GNU/Linux
-- 🌱 I’m currently learning Git, re-learning Python and Ansible
+- 👀 Interested in modeling & simulation, software integration and testing, and bash scripting
+- 🌱 I’m currently learning Git, re-learning Python, LaTeX and Ansible
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 Espruen/Espruen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
